@@ -1,4 +1,4 @@
-# nokia-x2-twrp-based-multibootloader
+# Nokia X2 TWRP-based Multibootloader
 a TWRP Recovery based multibootloader for Nokia X2  
   
 HOW TO COMPILE  
